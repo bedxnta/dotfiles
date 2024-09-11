@@ -1,0 +1,6 @@
+#!/bin/sh
+
+xwallpaper --zoom $HOME/Pictures/Wallpapers/wallhaven-qzkxrl.jpg
+wal -R
+
+xdotool key super+F5
